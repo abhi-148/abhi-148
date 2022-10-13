@@ -6,12 +6,110 @@
 }
 
 
+
+
+a {
+    color: #222;
+}
+
 body{
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
     background-color: #222;
-    color: #fff;
     height: 100vh;
+}
+
+
+.card {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 180px;
+    overflow: hidden;
+    position: relative;
+    border-radius: .5rem;
+}
+
+.redstrip{
+    width: inherit;
+    background-color: red;
+    height: 5px;
+}
+.logo{
+    width: 180px;
+    height: auto;
+    margin-block: .2rem;
+    justify-self: center;
+    margin-left: 3.5rem;
+}
+
+.blackstrip {
+    width: inherit;
+    height: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    font-size: .5rem;
+    text-align: center;
+}
+
+.row{
+    padding-inline: 1rem;
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-between;
+
+}
+
+.pic{
+    height: auto;
+    width: 70px;
+    margin-right: .3rem;
+}
+.col2 > h6{
+  color: red;
+}
+.col3{
+    margin-top: .05rem;
+    margin-left: .25rem;
+}
+.col3 > h6 {
+    color: black;
+    font-weight: 600;
+    font-size: 11px;
+}
+
+.redstrip2{
+    position: absolute;
+    width: 100%;
+    background-color: red;
+    display: flex;  
+    bottom: 0;  
+    height: 30px;
+    
+}
+.co1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    font-size: .5rem;
+    flex: 1;
+    color: #fff;
+
+}
+.co2,.co3{
+   background-color: white;
+   border-top:1.5px solid red;
+   flex: 1;
+   font-size: .5rem;
+   font-weight: 700;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
