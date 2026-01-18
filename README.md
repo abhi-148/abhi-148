@@ -1,37 +1,45 @@
-### Hi there 👋
 # Hi, I'm Abhishek Kumar 👋  
 
 🎓 B.Tech CSE | Parul University  
-💻 Frontend Developer | MERN Stack Learner  
+💻 Frontend Developer | MERN Stack Enthusiast  
 🚀 Aspiring Software Engineer  
 
 ---
 
 ## 👨‍💻 About Me
-- Passionate about building **responsive & scalable web applications**
-- Strong in **React.js, JavaScript, HTML, CSS**
-- Learning **Node.js, Express, MongoDB**
-- Interested in **AI-powered web apps & real-world problem solving**
+I am a passionate Frontend Developer with hands-on experience in building responsive and user-friendly web applications.  
+I enjoy transforming ideas into real-world projects using modern web technologies.
+
+- Strong foundation in **HTML, CSS, JavaScript**
+- Experienced with **React.js**
+- Learning **Node.js, Express.js, MongoDB (MERN Stack)**
+- Interested in **AI-powered applications & scalable systems**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js,C++
+- **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code, Rest Api
+- **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
 
 ## 📌 Featured Projects
 ### 🔹 Employee Management System
-👉 CRUD based web application for managing employees  
+- CRUD-based application for managing employee records  
+- Clean UI & structured code  
 
 ### 🔹 UP Student AI Copilot
-👉 AI-powered assistant for student guidance  
+- AI-powered assistant for student support  
+- Built using JavaScript  
 
 ### 🔹 Portfolio Website
-👉 Personal portfolio built with HTML & CSS  
+- Fully responsive personal portfolio  
+- Deployed on Netlify  
+
+🔗 **Live Portfolio:**  
+👉 https://rainbow-granita-a35b9a.netlify.app/
 
 ---
 
@@ -43,8 +51,9 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/abhishek-kumar-25b756260  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-25b756260/
+- 🌐 Portfolio: https://rainbow-granita-a35b9a.netlify.app/
+- 💻 GitHub: https://github.com/abhi-148  
 
 ---
-⭐ If you like my work, consider giving a star!
+⭐ If you like my work, feel free to star my repositories!
