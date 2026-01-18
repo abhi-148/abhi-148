@@ -16,10 +16,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js,C++
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+- **Tools:** Git, GitHub, VS Code, Rest Api
 
 ---
 
