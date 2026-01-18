@@ -18,7 +18,7 @@ I enjoy transforming ideas into real-world projects using modern web technologie
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js ,C++
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, VS Code, Postman  
