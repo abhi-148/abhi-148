@@ -39,7 +39,7 @@ I enjoy transforming ideas into real-world projects using modern web technologie
 - Deployed on Netlify  
 
 🔗 **Live Portfolio:**  
-👉 https://rainbow-granita-a35b9a.netlify.app/
+https://abhishek-pandey-portfolio-one.vercel.app/
 
 ---
 
