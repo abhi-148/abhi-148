@@ -1,8 +1,8 @@
 # Hi, I'm Abhishek Kumar 👋
 
-🚀 MERN Stack Developer | Immediate Joiner | Open to Work  
+🚀 **MERN Stack Developer | Immediate Joiner | Open to Work**
 
-I build scalable full-stack web applications using React.js, Node.js, and MongoDB.  
+I build scalable full-stack web applications using **React.js, Node.js, and MongoDB**.  
 Focused on real-world problem solving, performance optimization, and clean architecture.
 
 ---
@@ -16,18 +16,18 @@ Focused on real-world problem solving, performance optimization, and clean archi
 - Developed and optimized scalable REST APIs for real-time operations  
 - Improved task efficiency by ~30% through automation logic  
 
-🔗 Live: https://musical-centaur-0a5066.netlify.app/  
-🔗 Code: https://github.com/abhi-148/up-student-ai-copilot  
+🔗 **Live:** https://musical-centaur-0a5066.netlify.app/  
+🔗 **Code:** https://github.com/abhi-148/up-student-ai-copilot  
 
 ---
 
 ### 🏢 Employee Leave Management System
 - Built role-based leave approval workflow system  
-- Reduced manual tracking effort by 60%  
+- Reduced manual tracking effort by **60%**  
 - Implemented secure authentication and approval pipelines  
 - Improved operational efficiency through automation  
 
-🔗 Live: https://leave-management-sepia.vercel.app/  
+🔗 **Live:** https://leave-management-sepia.vercel.app/  
 
 ---
 
@@ -39,6 +39,7 @@ Focused on real-world problem solving, performance optimization, and clean archi
 ---
 
 ## 🛠️ Tech Stack
+
 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, MySQL  
@@ -47,6 +48,7 @@ Focused on real-world problem solving, performance optimization, and clean archi
 ---
 
 ## 💡 What I Bring
+
 - Strong problem-solving mindset  
 - Ability to build production-ready applications  
 - Focus on clean, scalable, and maintainable code  
@@ -55,13 +57,13 @@ Focused on real-world problem solving, performance optimization, and clean archi
 ---
 
 ## 📌 Availability
+
 ✔ Available for Immediate Joining  
 ✔ Open to Internship / Full-time Opportunities  
 
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-25b756260/  
-🌐 Portfolio: https://abhishek-pandey-portfolio-one.vercel.app/  
 
----
+💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-25b756260/  
+🌐 **Portfolio:** https://abhishek-pandey-portfolio-one.vercel.app/  
