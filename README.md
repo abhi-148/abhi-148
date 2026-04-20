@@ -1,59 +1,50 @@
-# Hi, I'm Abhishek Kumar 👋  
+# Hi, I'm Abhishek Kumar 👋
 
-🎓 B.Tech CSE | Parul University  
-💻 Frontend Developer | MERN Stack Enthusiast  
-🚀 Aspiring Software Engineer  
+🚀 MERN Stack Developer | Immediate Joiner | Open to Work  
+
+I build scalable full-stack web applications using React.js, Node.js, and MongoDB.  
+Focused on real-world problem solving, performance optimization, and clean architecture.
 
 ---
 
-## 👨‍💻 About Me
-I am a passionate Frontend Developer with hands-on experience in building responsive and user-friendly web applications.  
-I enjoy transforming ideas into real-world projects using modern web technologies.
+## 🔥 Featured Projects
 
-- Strong foundation in **HTML, CSS, JavaScript**
-- Experienced with **React.js**
-- Learning **Node.js, Express.js, MongoDB (MERN Stack)**
-- Interested in **AI-powered applications & scalable systems**
+### 🧠 AI-Powered Task Management System (Flagship)
+- Full-stack MERN application with AI-based task prioritization  
+- Implemented JWT Authentication & Role-Based Access Control  
+- Built analytics dashboard for productivity tracking  
+- Designed scalable REST APIs  
+
+🔗 Live: https://musical-centaur-0a5066.netlify.app/  
+🔗 Code: https://github.com/abhi-148/up-student-ai-copilot  
+
+---
+
+### 🏢 Employee Leave Management System
+- Role-based leave approval workflow system  
+- Reduced manual work by 60%  
+- Secure authentication and approval pipelines  
+
+🔗 Live: https://leave-management-sepia.vercel.app/  
+
+---
+
+### 🎓 Student ERP Management System
+- Web-based system for managing student records and workflows  
+- Responsive UI and REST API integration  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js ,C++
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code, Postman  
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Other:** REST APIs, JWT Authentication, Git, Postman  
 
 ---
 
-## 📌 Featured Projects
-### 🔹 Employee Management System
-- CRUD-based application for managing employee records  
-- Clean UI & structured code  
-
-### 🔹 UP Student AI Copilot
-- AI-powered assistant for student support  
-- Built using JavaScript  
-
-### 🔹 Portfolio Website
-- Fully responsive personal portfolio  
-- Deployed on Netlify  
-
-🔗 **Live Portfolio:**  
-https://abhishek-pandey-portfolio-one.vercel.app/
+## 📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-25b756260/  
+🌐 Portfolio: https://abhishek-pandey-portfolio-one.vercel.app/  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-148&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-148&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-25b756260/
-- 🌐 Portfolio:[ https://rainbow-granita-a35b9a.netlify.app/](https://abhishek-pandey-portfolio-one.vercel.app/)
-- 💻 GitHub: https://github.com/abhi-148  
-
----
-⭐ If you like my work, feel free to star my repositories!
