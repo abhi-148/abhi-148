@@ -1,42 +1,120 @@
-# 🚀 LeaveManage — Employee Leave Management System
+# 🚀 UP Student AI Copilot — AI-Powered Career Intelligence Ecosystem
 
-A modern full-stack Leave Management & Attendance Tracking platform built using the MERN stack.  
-Designed to simplify employee leave requests, attendance management, approval workflows, and workforce tracking for organizations.
+An AI-powered education intelligence and career guidance platform specially designed for students from rural and semi-urban India.  
+Built using the MERN stack, the system combines district-level educational data, AI-based career analysis, government exam intelligence, and realistic risk assessment to help students make safer and smarter career decisions.
 
 ---
 
 # 🌐 Live Demo
 
-🔗 https://leave-management-sepia.vercel.app/
+🔗 https://musical-centaur-0a5066.netlify.app/
 
 ---
 
-# 📌 Key Features
+# 🎯 Core Vision
 
-## 👨‍💼 Employee Dashboard
-- Attendance tracking system
-- Clock In / Clock Out functionality
-- Leave balance management
-- Leave request history
-- Upcoming leave tracking
+UP Student AI Copilot is designed to solve real student problems such as:
 
-## 🏢 HR & Workflow Management
-- Role-based leave approval workflow
-- Employee leave monitoring
-- Automated request handling
-- Leave analytics and tracking
+- Lack of career awareness
+- Wrong stream selection
+- Coaching pressure
+- Drop year uncertainty
+- Rural opportunity gaps
+- Financial risk in education
+- No backup career planning
+- Lack of localized mentorship
 
-## 🔐 Authentication & Security
-- JWT Authentication
-- Secure login/signup system
-- Protected routes
-- Role-Based Access Control (RBAC)
+The platform acts as an AI Career Mentor + District Intelligence System for students and parents.
 
-## 📱 Responsive UI
-- Fully responsive dashboard
-- Mobile-friendly layout
-- Modern clean interface
-- User-focused experience
+---
+
+# 🧠 AI Features
+
+## 📊 Govt Job Probability AI
+Analyzes:
+- Study hours
+- Preparation years
+- Attempts
+- English level
+- District competition
+
+Generates:
+- Selection probability
+- Risk level
+- AI preparation advice
+- Backup recommendations
+
+---
+
+## 🗺 Career Map AI
+
+Provides class-wise career guidance for:
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- Droppers
+
+Features:
+- Career risk analysis
+- Safe career alternatives
+- AI timelines
+- Stream guidance
+- Backup planning
+- Diploma vs Degree intelligence
+
+---
+
+## 🏫 District Career Intelligence
+
+Uses real backend district data for:
+- Schools
+- Coachings
+- Libraries
+- Diploma institutes
+
+Provides:
+- District opportunity score
+- Resource availability
+- AI district insights
+- Competition analysis
+- Risk-based guidance
+
+---
+
+## 👨‍👩‍👦 Parent View AI
+
+Helps parents understand:
+- Student pressure level
+- Emotional health indicators
+- Study consistency
+- Success probability
+- Financial burden
+- Safe backup options
+
+---
+
+## 🏆 School Leaderboard AI
+
+AI-powered school ecosystem ranking based on:
+- Student performance
+- Success rate
+- Dropout rate
+- Infrastructure
+- AI confidence score
+
+---
+
+## 🎯 Coaching Intelligence AI
+
+Advanced coaching analysis engine with:
+- ROI analysis
+- Success rate
+- AI match score
+- Hostel availability
+- Medium preference
+- Budget intelligence
+- Pressure level analysis
 
 ---
 
@@ -56,41 +134,60 @@ Designed to simplify employee leave requests, attendance management, approval wo
 - MongoDB
 - Mongoose
 
-## Authentication
-- JWT Authentication
-- RBAC
-
-## Deployment
-- Vercel
+## AI Logic
+- Custom AI scoring engine
+- Risk analysis algorithms
+- Career intelligence system
+- Opportunity mapping engine
+- District-level analysis logic
 
 ---
 
 # 📸 Project Screenshots
 
 ## Dashboard
-(Add dashboard screenshot here)
+![Dashboard](./screenshots/dashboard.png)
 
-## Attendance Tracking
-(Add attendance screenshot here)
+## Career Map AI
+![Career Map](./screenshots/career-map.png)
 
-## Leave Request System
-(Add leave request screenshot here)
+## Govt Job Probability AI
+![Govt Job AI](./screenshots/govt-job-ai.png)
 
-## Features Section
-(Add features screenshot here)
+## Institute Intelligence
+![Institute Intelligence](./screenshots/institute-ai.png)
+
+## School Leaderboard
+![School Leaderboard](./screenshots/school-leaderboard.png)
 
 ---
 
 # ⚡ Core Functionalities
 
-- Attendance management
-- Leave request workflow
-- Approval system
-- Employee dashboard
-- Leave balance tracking
-- Secure authentication
+- AI-powered career guidance
+- Govt exam probability prediction
+- Risk analysis system
+- District opportunity mapping
+- School & coaching intelligence
+- Parent analytics dashboard
+- Student ecosystem analysis
+- Role-based architecture
 - Responsive UI
 - REST API integration
+
+---
+
+# 🗄 Database Collections
+
+The platform uses MongoDB collections for:
+- Districts
+- Schools
+- Coachings
+- Libraries
+- Diploma colleges
+- Career maps
+- Parent analytics
+- Student profiles
 
 ---
 
@@ -102,23 +199,37 @@ Designed to simplify employee leave requests, attendance management, approval wo
 /controllers
 /models
 /middleware
+/utils
+/ai-engine
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Future Scope
 
-- Admin analytics dashboard
-- Email notifications
-- AI leave prediction
-- Calendar integration
-- Payroll integration
-- Team collaboration system
+- ML-based prediction engine
+- Government vacancy integration
+- Scholarship AI
+- Hindi voice assistant
+- AI timetable generator
+- Emotional analytics system
+- Live district heatmaps
+- Mobile application
+- AI recommendation chatbot
 
 ---
 
 # 💡 Project Impact
 
-This platform helps organizations reduce manual leave tracking efforts, improve workforce management, and streamline employee attendance workflows through automation and centralized management.
+This platform aims to become a digital career safety system for students who do not receive proper mentorship, especially in rural India.
+
+It helps students:
+- choose realistic career paths
+- reduce educational pressure
+- understand risks
+- improve decision making
+- access localized educational intelligence
+
+This is not just a project — it is an AI-powered education intelligence ecosystem.
 
 ---
 
