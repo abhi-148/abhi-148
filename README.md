@@ -1,69 +1,136 @@
-# Hi, I'm Abhishek Kumar 👋
+# 🚀 LeaveManage — Employee Leave Management System
 
-🚀 **MERN Stack Developer | Immediate Joiner | Open to Work**
-
-I build scalable full-stack web applications using **React.js, Node.js, and MongoDB**.  
-Focused on real-world problem solving, performance optimization, and clean architecture.
+A modern full-stack Leave Management & Attendance Tracking platform built using the MERN stack.  
+Designed to simplify employee leave requests, attendance management, approval workflows, and workforce tracking for organizations.
 
 ---
 
-## 🔥 Featured Projects
+# 🌐 Live Demo
 
-### 🧠 AI-Powered Task Management System (Flagship)
-- Full-stack MERN application with AI-based smart task prioritization  
-- Implemented secure JWT Authentication & Role-Based Access Control  
-- Built analytics dashboard for productivity tracking and insights  
-- Developed and optimized scalable REST APIs for real-time operations  
-- Improved task efficiency by ~30% through automation logic  
-
-🔗 **Live:** https://musical-centaur-0a5066.netlify.app/  
-🔗 **Code:** https://github.com/abhi-148/up-student-ai-copilot  
+🔗 https://leave-management-sepia.vercel.app/
 
 ---
 
-### 🏢 Employee Leave Management System
-- Built role-based leave approval workflow system  
-- Reduced manual tracking effort by **60%**  
-- Implemented secure authentication and approval pipelines  
-- Improved operational efficiency through automation  
+# 📌 Key Features
 
-🔗 **Live:** https://leave-management-sepia.vercel.app/  
+## 👨‍💼 Employee Dashboard
+- Attendance tracking system
+- Clock In / Clock Out functionality
+- Leave balance management
+- Leave request history
+- Upcoming leave tracking
 
----
+## 🏢 HR & Workflow Management
+- Role-based leave approval workflow
+- Employee leave monitoring
+- Automated request handling
+- Leave analytics and tracking
 
-### 🎓 Student ERP Management System
-- Developed ERP system for managing student data and workflows  
-- Designed responsive UI improving usability and engagement  
-- Integrated REST APIs for efficient data handling  
+## 🔐 Authentication & Security
+- JWT Authentication
+- Secure login/signup system
+- Protected routes
+- Role-Based Access Control (RBAC)
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**Other:** REST APIs, JWT Authentication, Git, Postman, Deployment  
-
----
-
-## 💡 What I Bring
-
-- Strong problem-solving mindset  
-- Ability to build production-ready applications  
-- Focus on clean, scalable, and maintainable code  
-- Quick learner with adaptability to new technologies  
+## 📱 Responsive UI
+- Fully responsive dashboard
+- Mobile-friendly layout
+- Modern clean interface
+- User-focused experience
 
 ---
 
-## 📌 Availability
+# 🛠️ Tech Stack
 
-✔ Available for Immediate Joining  
-✔ Open to Internship / Full-time Opportunities  
+## Frontend
+- React.js
+- Tailwind CSS
+- Axios
+- React Router DOM
+
+## Backend
+- Node.js
+- Express.js
+
+## Database
+- MongoDB
+- Mongoose
+
+## Authentication
+- JWT Authentication
+- RBAC
+
+## Deployment
+- Vercel
 
 ---
 
-## 📫 Connect With Me
+# 📸 Project Screenshots
 
-💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-25b756260/  
-🌐 **Portfolio:** https://abhishek-pandey-portfolio-one.vercel.app/  
+## Dashboard
+(Add dashboard screenshot here)
+
+## Attendance Tracking
+(Add attendance screenshot here)
+
+## Leave Request System
+(Add leave request screenshot here)
+
+## Features Section
+(Add features screenshot here)
+
+---
+
+# ⚡ Core Functionalities
+
+- Attendance management
+- Leave request workflow
+- Approval system
+- Employee dashboard
+- Leave balance tracking
+- Secure authentication
+- Responsive UI
+- REST API integration
+
+---
+
+# 📂 Project Structure
+
+/client
+/server
+/routes
+/controllers
+/models
+/middleware
+
+---
+
+# 🚀 Future Improvements
+
+- Admin analytics dashboard
+- Email notifications
+- AI leave prediction
+- Calendar integration
+- Payroll integration
+- Team collaboration system
+
+---
+
+# 💡 Project Impact
+
+This platform helps organizations reduce manual leave tracking efforts, improve workforce management, and streamline employee attendance workflows through automation and centralized management.
+
+---
+
+# 👨‍💻 Developer
+
+Abhishek Kumar
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/abhishek-kumar-25b756260/
+
+🔗 Portfolio:
+https://abhishek-pandey-portfolio-one.vercel.app/
+
+🔗 GitHub:
+https://github.com/abhi-148
